@@ -1,0 +1,4 @@
+interface:
+  display_name: "逆水寒创意工坊代码助手"
+  short_description: "辅助逆水寒手游创意工坊脚本、界面交互与关卡逻辑编写。"
+  default_prompt: "帮助我根据已整理的逆水寒创意工坊文档编写关卡逻辑、界面交互或排查积木用法。"
